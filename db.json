@@ -1,0 +1,35 @@
+
+
+{
+  "villages": [
+    {
+      "id": 1,
+      "title": "Mirzapur",
+      "sellingPrice": 120.08
+    },
+    {
+      "id": 2,
+      "title": "Jaunpur",
+      "sellingPrice": 125.18
+    },
+    {
+      "id": 3,
+      "title": "Gorakhpur",
+      "sellingPrice": 110.87
+    }
+  ],
+  "sellers": [
+    {
+      "loyaltyCardId": "S18972",
+      "sellerName": "Ramu Kaka"
+    },
+    {
+      "loyaltyCardId": "S18973",
+      "sellerName": "Ramesh Kumar"
+    }
+  ],
+  "loyaltyIndex": {
+    "registered": 1.12,
+    "unregistered": 0.98
+  }
+}
