@@ -16,6 +16,16 @@
       "id": 3,
       "title": "Gorakhpur",
       "sellingPrice": 110.87
+    },
+    {
+      "id": 4,
+      "title": "Kasturi Nagar",
+      "sellingPrice": 129.04
+    },
+    {
+      "id": 5,
+      "title": "Baiyappanhalli",
+      "sellingPrice": 131.46
     }
   ],
   "sellers": [
@@ -26,6 +36,18 @@
     {
       "loyaltyCardId": "S18973",
       "sellerName": "Ramesh Kumar"
+    },
+    {
+      "loyaltyCardId": "S18974",
+      "sellerName": "Nitin Gadkari"
+    },
+    {
+      "loyaltyCardId": "S18975",
+      "sellerName": "Harish Chitre"
+    },
+    {
+      "loyaltyCardId": "S18976",
+      "sellerName": "Geena Patel"
     }
   ],
   "loyaltyIndex": {
